@@ -1,0 +1,12 @@
+{
+  "name": "js-5stxtn",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/js-5stxtn",
+  "dependencies": {
+    "jquery": "3.3.1",
+    "moment": "2.22.2",
+    "bootstrap": "4.1.3",
+    "popper.js": "1.14.4"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,41 @@
+h1, h2 {
+  font-family: Lato;
+}
+#inputs{
+  margin-top: 1em !important;
+}
+.cellday{
+  width: 40px;
+  height: 40px;
+}
+.yearTitle{
+  font-size: 1.5em;
+  text-align: center;
+  background: #f1f1f1;
+  width: 100%;
+}
+.month{
+  margin: 1em;
+}
+.invalid{
+  background: grey;
+}
+.yellow{
+  background: yellow;
+}
+
+.green{
+  background: green;
+}
+
+.pink{
+  background: pink;
+}
+
+.purple{
+  background: purple;
+}
+
+.formi{
+  margin-right: .5em;
+}
